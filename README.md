@@ -1,7 +1,7 @@
 # Task-Manager-Project
 I developed a Task Manager web application using HTML, CSS, PHP, and MySQL that supports complete CRUD operations for managing tasks.
 
-# Task Manager CRUD Application
+# Task-1 Manager CRUD Application
 
 ## Project Overview
 A simple web-based **Task Manager** application demonstrating full CRUD (Create, Read, Update, Delete) functionality.
